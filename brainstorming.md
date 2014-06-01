@@ -1,6 +1,5 @@
-Population (Dec 2012): 120,266
-Population below poverty line: 40,289 (33.5%)
-FY14 Public Safety Expenditures: $34,976,000 (32%)
+- Population (Dec 2012): 120,266
+- Population below poverty line: 40,289 (33.5%)
 
 Resources:
 - http://www.codecademy.com/schools
